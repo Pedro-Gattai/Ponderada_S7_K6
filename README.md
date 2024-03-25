@@ -12,7 +12,7 @@ k6 é uma ferramenta de teste de carga open-source que simula tráfego de usuár
 
 2. acessar a pasta ``` codigo/backend/src/scripts/load/updateEmployer ```
 
-3. Rodar no terminal ``` k6 run loadUpdateCustomer.js ```
+3. Rodar no terminal ``` k6 run loadUpdateCustomer1.js ```
 
 ## Endpoint sendo testado
 
