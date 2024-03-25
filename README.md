@@ -7,4 +7,4 @@ Instruções de execução:
 
 3. Rodar no terminal ``` loadUpdateCustomer.js ```
 
-<img src="./Captura de tela de 2024-03-24 20-44-10.png"> </img>
+<img src="./Captura de tela de 2024-03-22 09-58-13.png"> </img>
