@@ -8,3 +8,4 @@ Instruções de execução:
 3. Rodar no terminal ``` loadUpdateCustomer.js ```
 
 Abaixo é possivel ver um 
+<img src="./Captura de tela de 2024-03-24 22-01-27.png"> </img>
