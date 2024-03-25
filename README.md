@@ -1,5 +1,4 @@
-# Ponderada_S7_K6
-# Relatório de Teste de Carga - k6
+# Ponderada - k6
 
 ## Introdução
 Este relatório descreve os testes de carga realizados no endpoint [Insira o endpoint] da nossa aplicação. Os testes foram realizados usando a ferramenta k6.
