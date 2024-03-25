@@ -10,7 +10,7 @@ k6 é uma ferramenta de teste de carga open-source que simula tráfego de usuár
 
 1. Acesse o respositorio do grupo: ``` https://github.com/Inteli-College/2024-T0003-ES09-G03 ```
 
-2. acessar a pasta ``` backend/src/k6 ```
+2. acessar a pasta ``` codigo/backend/src/scripts/load/updateEmployer ```
 
 3. Rodar no terminal ``` loadUpdateCustomer.js ```
 
